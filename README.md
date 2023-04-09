@@ -21,3 +21,9 @@ Atualmente fazendo curso técnico de TI e com com um imenso desejo de seguir na 
   <a href="https://www.instagram.com/christiancrx28/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:riccichristian338@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xChristianCRX/xChristianCRX/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xChristianCRX/xChristianCRX/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/xChristianCRX/xChristianCRX/output/github-contribution-grid-snake.svg" />
+</picture>
