@@ -6,7 +6,7 @@
     String country = "Brasil";
     String city = "São Carlos, SP";
     int age = 19;
-    ArrayList<String> achievements = ["Java","Javascript","HTML","CSS","React","SQL"];
+    ArrayList<String> achievements = ["Java", "Spring Boot", "Javascript", "HTML", "CSS", "React", "SQL"];
   }
   ```
 
