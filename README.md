@@ -2,7 +2,7 @@
 
   ```java
   public Class Christian{
-    String name = Christian Ricci;
+    String name = "Christian Ricci";
     String country = "Brasil";
     String city = "São Carlos, SP";
     int age = 19;
